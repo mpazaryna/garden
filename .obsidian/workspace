@@ -7,8 +7,11 @@
         "id": "82fb3f621f763244",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "README.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -65,6 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "README.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,6 +88,7 @@
   },
   "active": "82fb3f621f763244",
   "lastOpenFiles": [
+    "README.md",
     "CHANGELOG.md.md",
     "00-meta/about-me.md",
     "welcome.md",
@@ -92,7 +97,6 @@
     "10-notes/Untitled.md",
     "20-blog/2015/2015-07-02-hello-react.md",
     "20-blog/2016/2016-10-07-asbury-agile.md",
-    "20-blog/2012/human-computer-interaction.md",
-    "20-blog/2012/writing-with-jekyll.md"
+    "20-blog/2012/human-computer-interaction.md"
   ]
 }
