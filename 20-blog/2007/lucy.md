@@ -1,0 +1,3 @@
+I'm almost there - after a few weeks of repeated plays and focused study I think, just maybe, I've got Clapton's 'Watch Out for Lucy' tune down cold. I've done this once before - 'Jack Straw' from a 72 Grateful Dead recording. So Eric, is wailing - come see me early in the morning, just about the break of day......
+
+3-30-07

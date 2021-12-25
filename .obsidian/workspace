@@ -1,0 +1,98 @@
+{
+  "main": {
+    "id": "c47e128a88c4d1e9",
+    "type": "split",
+    "children": [
+      {
+        "id": "82fb3f621f763244",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "957c5517a58ac05d",
+    "type": "split",
+    "children": [
+      {
+        "id": "ee8fc3cf71de1855",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9f9c601b511c2d74",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "ab7b2762e69a13b2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#react",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 422.5
+  },
+  "right": {
+    "id": "4e9bcebfc1c3a789",
+    "type": "split",
+    "children": [
+      {
+        "id": "a850a07dc32d530f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1ec8c8c982dcd868",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "82fb3f621f763244",
+  "lastOpenFiles": [
+    "CHANGELOG.md.md",
+    "00-meta/about-me.md",
+    "welcome.md",
+    "10-notes/50-digital-garden/digital-garden-moc.md",
+    "10-notes/40-music/guitar-resources.md",
+    "10-notes/Untitled.md",
+    "20-blog/2015/2015-07-02-hello-react.md",
+    "20-blog/2016/2016-10-07-asbury-agile.md",
+    "20-blog/2012/human-computer-interaction.md",
+    "20-blog/2012/writing-with-jekyll.md"
+  ]
+}

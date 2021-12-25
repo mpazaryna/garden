@@ -1,0 +1,3 @@
+Its a quick ride from Annapolis and becoming a father's day tradition. The hands down winner - and I hate to say it - was Geno. The attitude is a bit much for me - but the steak was better. We consumed one each at Pat's - crossed the street and did the same at Geno's. Amazing afternoon - got back in the car with ideas of finding the art museum to run the steps, but quickly realized that a ride home on a fully belly was much more appealing.
+
+2007-07-08
