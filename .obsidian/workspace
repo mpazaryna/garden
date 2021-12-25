@@ -7,11 +7,8 @@
         "id": "82fb3f621f763244",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "README.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -68,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -83,20 +79,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "active": "82fb3f621f763244",
   "lastOpenFiles": [
     "README.md",
-    "CHANGELOG.md.md",
-    "00-meta/about-me.md",
-    "welcome.md",
-    "10-notes/50-digital-garden/digital-garden-moc.md",
-    "10-notes/40-music/guitar-resources.md",
-    "10-notes/Untitled.md",
-    "20-blog/2015/2015-07-02-hello-react.md",
-    "20-blog/2016/2016-10-07-asbury-agile.md",
-    "20-blog/2012/human-computer-interaction.md"
+    "Welcome.md",
+    "10-notes/20-blog/2007/henry-and-the-king.md",
+    "10-notes/20-blog/2007/christmas-in-annapolis.md",
+    "10-notes/20-blog/2007/autoload-in-perl.md",
+    "10-notes/20-blog/2009/back-from-jersey.md",
+    "10-notes/20-blog/2007/isabella-is-ten.md",
+    "10-notes/20-blog/blog-moc.md",
+    "10-notes/about-me.md",
+    "publish.css.md"
   ]
 }

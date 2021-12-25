@@ -3,3 +3,7 @@
 Can you say Obfuscatis?
 
 3-28-07
+
+tags: tumblr
+[[blog-moc]]
+

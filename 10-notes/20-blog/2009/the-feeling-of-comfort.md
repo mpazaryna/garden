@@ -1,3 +1,8 @@
+---
+date created: 2021-12-18
+date modified: 2021-12-24
+tags: Isabella, poetry
+---
 
 # The Feeling of Comfort
 
@@ -11,5 +16,7 @@ It reminds me of the crisp scent of fresh linen.
 It makes me feel content, like a small child with no worries  
 It makes me want to share the feeling with everyone.  
 
-### 2009-03-30
+---
+
+Originally published on [Tumblr](https://mpazaryna.tumblr.com/post/91201353/an-isabella-poem)
  

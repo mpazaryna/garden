@@ -12,3 +12,7 @@ We start here, with a list of links to resources and other areas of interest.
 - [Tom Critchlow's Wikifolder](https://tomcritchlow.com/wiki/)
 - [Buster's Notes](https://notes.busterbenson.com)
 - [Winnie Lim Experiments](https://winnielim.org/experiments/)
+
+## My Favorite Obsidian Publish Site
+
+https://mister-chad.com/welcome

@@ -1,0 +1,7 @@
+# Back from Jersey
+
+I’m back home after a nice visit to see the family in New Jersey. A great ride up Christmas Day with the kids. Each of us tuning in and out of conversations and ipod mania. Zencasts have been my salvation these days. Tortured moments move to quiet times, realizing that I’m fighting my ego much of the time when the bad clouds roll in. Its been a real experience - everything changing on different sides of life. Back in the office - there is a bit of a motivation thing going on. Lots of work to complete before too long and then the unknown. I do believe that employment is stable, but the notion of changing winds make me nervous. I’m looking forward to coming in and seeing the old sign replaced by the new sign. Out with the old - in with the new. It will be fine, I hope. Lots of friendships are growing lately. I think I’m fully alive again on so many levels. Its been a hard couple of years - but its getting better. Its gotten better. Now, its time to do what I should have done years ago. Hunker down. Produce the best I can - try to be efficient, understand the 80 / 20 rule. Blah blah blah. Just discovered Rosie Thomas. A sweet voice, sweet indeed.”
+
+---
+
+[[blog-moc]]
