@@ -1,3 +1,8 @@
+---
+createdOn: 2021-12-19
+updatedOn: 2021-12-27
+---
+
 ## Personal
 
 In 1982, I started a formal practice of meditation, which opened a door into the study of Vedanta Philosophy, Yoga, and many wellness practices. I taught my first Hatha Yoga class in 1985 at Seton Hall University.

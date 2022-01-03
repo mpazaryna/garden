@@ -1,14 +1,15 @@
 ---
-date created: 2021-12-25
-date modified: 2021-12-25
+createdOn: 2021-12-25
+updatedOn: 2021-12-27
 ---
-
-This is my digital garden.  
 
 ## Who Am I
 
 This is all [[about-me]].
 
-## What is this?
+## Maps of Content
 
-This should be appearing, still getting things set up.  
+- [[digital-garden-moc]]
+- [[guitar-moc]]
+- [[ruby-moc]]
+

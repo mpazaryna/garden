@@ -1,3 +1,0 @@
-"The White House is livid with Nancy Pelosi because she will visit Syria next week -- presumably to fraternize with terrorists. Snert. Nevermind that the 911 terrorists were mostly Saudis, that for decades the Bush family has been on kissing terms with the Saudi Royal Family and other Saudi elites, and that the bin Laden family funded W's first venture into oil -- which means that the Bushies _truly are_ fraternizing with known terrorists. I am pleased to see someone finally acting like an adult by speaking to some of the countries concerned with the state of things in the Middle East." http://scienceblogs.com/grrlscientist/2007/03/pelosi_has_more_stones_than_bu.php
-
-2007-03-31

@@ -1,5 +1,0 @@
-> I'm glad when code like this goes away. 
-
-"This function tells the thingy referenced by REF that it is now an object in the CLASSNAME package--or the current package if no CLASSNAME is specified, which is often the case. It returns the reference for convenience, because a [bless()](https://www.blogger.com/blog/post/edit/7012560466934173280/9134003147861380049#) is often the last thing in a constructor. Always use the two-argument version if the function doing the blessing might be inherited by a derived class. 
-
-See [the perltoot manpage](https://www.blogger.com/blog/post/edit/7012560466934173280/9134003147861380049#) and [the perlobj manpage](https://www.blogger.com/blog/post/edit/7012560466934173280/9134003147861380049#) for more about the blessing (and blessings) of objects." http://www.perl.com/doc/manual/html/pod/perlfunc/bless.html

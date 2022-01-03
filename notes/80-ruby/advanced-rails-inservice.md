@@ -1,6 +1,6 @@
 ---
-date created: 2021-12-19
-date modified: 2021-12-19
+createdOn: 2021-12-19
+updatedOn: 2021-12-27
 ---
 
 # Advanced Rails - Day 1
